@@ -1,3 +1,8 @@
+Installing
+==========
+
+`python -m pip install mingwtomsys`
+
 Usage by example
 ================
 
